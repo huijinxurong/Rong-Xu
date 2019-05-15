@@ -1,2 +1,2 @@
 # resume
-This is my resume and I am still working on it...
+Resume link: https://huijinxurong.github.io/
